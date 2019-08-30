@@ -1,3 +1,7 @@
 Hello GitHub！
 第一次用，不习惯哦。
-本repository仅做存储python代码之用
+本 repository 仅做存储 python 代码之用
+
+## 2019.08.30 
+时隔多年，看了下自己写的代码，不禁感慨，年轻真好。
+永远充满好奇，永远保持年轻！
